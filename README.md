@@ -1,2 +1,2 @@
-# hyperskill
+# creditcalc
 studing python hyperskil
